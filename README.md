@@ -1,7 +1,7 @@
 # SwiftUI Hamburger 🍔
 SwiftUI implementation of a Hamburger menu
 
-![Screenshot](https://github.com/moflo/swiftui_hamburger/blob/master/Hamburger_Screen.png?raw=true)
+![Screenshot](https://github.com/moflo/swiftui_hamburger/blob/master/Hamburger_Screen.png?raw=true | width=300)
 
 ### Description
 Create two sub-views which, critially, need to be cast to AnyView() structs
